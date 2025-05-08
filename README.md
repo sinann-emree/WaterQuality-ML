@@ -1,5 +1,5 @@
-💧 Su İçilebilirlik Tespiti – Makine Öğrenmesi Projesi
-Bu proje, çeşitli fiziksel ve kimyasal su özelliklerine göre suyun içilebilir olup olmadığını tahmin eden bir makine öğrenmesi modelini kapsamaktadır. Proje, çevresel analiz, halk sağlığı ve otomatik karar destek sistemleri için örnek teşkil etmektedir.
+💧 Water Potability Detection – Machine Learning Project
+This project involves a machine learning model designed to predict whether water is drinkable based on various physical and chemical properties. It serves as an example for use in environmental analysis, public health, and automated decision support systems.
 
-🎯 Proje Amacı
-Farklı su örneklerinin analiz verilerine dayanarak, bu suların içilebilir (drinkable) olup olmadığını sınıflandırmak.
+🎯 Project Objective
+To classify different water samples as drinkable or not drinkable based on their analytical data.
